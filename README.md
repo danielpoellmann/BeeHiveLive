@@ -3,7 +3,7 @@ This respository describes a bee hive monitor that is integrated to Home Assista
 
 ## Software Development
 Disclaimer: I have no idea how to programm so I basically just steal code and torture every AI known to man to get my code running.
-It is the software equivalent of unsing Duck Tape in order to mount a jet engine to a Boeing 787-9 Dreamliner.
+It is the software equivalent of using Duck Tape in order to mount a jet engine to a Boeing 787-9 Dreamliner.
 
 It is almost 2am at night and my brain is not properly working anymore, so I would like to apologize for this documentation. Let's see where this will get us...
 

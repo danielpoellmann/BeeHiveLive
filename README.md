@@ -13,8 +13,9 @@ That enables me to connect the device to my already established Zigbee mesh.
 After a short search I stumbled apon twoe different options:
 1. Seeed Studio XIAO ESP32C6: https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/
 2. Seeed Studio XIAO NRF52840: https://wiki.seeedstudio.com/XIAO_BLE/
-After some googling "ESP32C6 vs NRF52840 current consumption" it turns out, that the NRF52840 is supposed a really low power comsumption making it absolutely perfect for my application.
-Even something about compatibility with ESP Home and the Arduino IDE is written in the documentation, so we know we will have an easy time programming it (Foreshadowing can be quite obvious).
+
+After some googling "ESP32C6 vs NRF52840 current consumption" it turns out, that the NRF52840 is supposed to have a really low power comsumption, making it absolutely perfect for my application.
+Even something about compatibility with ESP Home and the Arduino IDE is written in the documentation, so we know that we will have an easy time programming it (Foreshadowing can be quite obvious).
 
 #### The limitations of ESP Home and yaml
 It is possible to generate code in ESP home and it actually has such a low power consumption, that I was not even able to pick it up with my USB power meter.
